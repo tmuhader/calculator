@@ -1,1 +1,6 @@
-rootProject.name = 'Calculator'
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'calculator'
